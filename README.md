@@ -1,11 +1,11 @@
 
-![JeongYun's Github](https://capsule-render.vercel.app/api?type=waving&height=200&text=JYun's%20Github!&fontSize=45&fontAlign=80&fontAlignY=40&color=0:5ba0c2,100:8ac963)
+![JeongYun's Github](https://capsule-render.vercel.app/api?type=waving&height=200&text=JYun's%20Github!&fontSize=45&fontAlign=80&fontAlignY=40&color=0:5ba0c2,100:8ac963&fontColor=FFFFFF)
 
 <h3 align="center">🌱 About Me 🌱</h3>   
 <div align="center">
   <a href="https://blog.naver.com/cathx618"><img src="https://img.shields.io/badge/Blog -12100E?style=flat&link=https://blog.naver.com/cathx618"/></a>
   <a href=""><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a>   
-  
+</div>  
 
 <br>
 
