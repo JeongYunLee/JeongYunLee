@@ -7,6 +7,13 @@
   <a href=""><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a>   
 </div>  
 
+
+<br>
+
+<h3 align="center"> Contact </h3>
+<div align="center">
+    <a href="mailto:dy20181480@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=cathx618@gmail.com"/></a>
+
 <br>
 
 
@@ -35,11 +42,3 @@
   -->
 
 </div>
-
-
-<br>
-
-
-<h3 align="center"> Contact </h3>
-<div align="center">
-    <a href="mailto:dy20181480@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=cathx618@gmail.com"/></a>
