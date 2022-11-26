@@ -20,7 +20,7 @@
 <br>
 
 
-<h3 align="center"> Tech Stack </h3>   
+<!-- <h3 align="center"> Tech Stack </h3>   
 
 <div align="center">
 	
@@ -45,4 +45,4 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/></a>  
   -->
 
-</div>
+</div> -->
