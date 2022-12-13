@@ -4,7 +4,7 @@
 <h3 align="center"> About Me </h3>   
 <p align="center">It will be updated soon!</p>
 <div align="center">
-  <a href=""><img src="https://img.shields.io/badge/JYun Lee -12100E?style=flat&link=https://blog.naver.com/cathx618"/></a>
+  <a href=""><img src="https://img.shields.io/badge/JYun Lee -43B02A?style=flat&link=https://blog.naver.com/cathx618"/></a>
   <a href=""><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=LinkedIn&logoColor=white"/></a>   
 </div>  
 
