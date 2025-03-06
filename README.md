@@ -1,5 +1,5 @@
 
-![JeongYun's Github](https://capsule-render.vercel.app/api?type=waving&height=200&text=JYun's%20Github!&fontSize=45&fontAlign=80&fontAlignY=40&color=0:5ba0c2,100:8ac963&fontColor=FFFFFF)
+![JeongYun's Github](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hi,%20안녕하세요!&fontSize=45&fontAlign=80&fontAlignY=40&color=0:5ba0c2,100:8ac963&fontColor=FFFFFF)
 
 <h3 align="center"> About Me </h3>   
 <!-- <p align="center">It will be updated soon!</p> -->
